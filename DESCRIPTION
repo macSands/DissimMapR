@@ -1,12 +1,12 @@
 Package: DissimMapR
-Title: B-cubed package for Stellenbosch (SUN) deliverables
+Title: Mapping species compositional dissimilarity and turnover for B3
 Version: 0.0.0.9000
 Authors@R: person(
   "Sandra", "MacFadyen",
   email = "macfadyen@sun.ac.za",
   role = c("aut", "cre"),
   comment = c(ORCID = "0000-0002-5316-440X"))
-Description: What the package does (one paragraph).
+Description: DissimMapR package maps species compositional dissimilarity and turnover using MS-GDM and Zeta diversity.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
