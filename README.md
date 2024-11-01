@@ -13,6 +13,8 @@ stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://
 The goal of DissimMapR is to collate SUN deliverables for EU Horizon B3
 project: Biodiversity Building Blocks for Policy
 
+**Test git push**
+
 ## Installation
 
 You can install the development version of DissimMapR from
